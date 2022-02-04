@@ -1,0 +1,37 @@
+.center {
+    text-align: center;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+.green {
+    color: green;
+}
+.large_text {
+    font-size: x-large;
+}
+.tiny_text {
+    font-size: xx-small;
+}
+.bold {
+    font-weight: bold;
+}
+.font_family {
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#multiple {
+    font-size: larger;
+    color: orange;
+    font-weight: bold;
+}
+.styledFont {
+    color: green;
+}
+img[id=styledImage] {
+    width: 470px;
+    border: 8px solid orange;
+}
